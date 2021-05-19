@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonNtech
+- 👋 Hi, I’m Jon Pena or @jonNtech
 - i have been teaching myself to code since Aug 2020.
 - 👀 I’m interested in HTML, CSS, Javascript, and python. 
 - 🌱 I’m currently learning Javascript and React

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jon Pena or @jonNtech
 - Self Taught coder since Aug 2020.
-- 👀 I’m interested in HTML, CSS, Javascript, and Python. 
+- 👀 I’m interested in HTML, CSS, Javascript, NODE.js, and Python. 
 - 🌱 MERN Stack
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me, my email is iamjonntech@gmail.com for any questions. 

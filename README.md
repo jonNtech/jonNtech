@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jon Pena</h1>
 <h3 align="center">This is JonNTech</h3>
 
-- 🔭 I’m currently working on [Calculator](https://github.com/jonNtech/CalculatorApp)
+- 🔭 I’m currently working on [fun freedom Calculator](https://github.com/jonNtech/CalculatorApp)
 
 - 🌱 I’m currently learning **Node.js Express Mongo Db**
 
-- 👯 I’m looking to collaborate on [Juan Taco Shop](https://github.com/jonNtech/JuanTacos)
+- 👯 I’m looking to collaborate on [Juan Taco Shop landing page](https://github.com/jonNtech/JuanTacos)
 
 - 💬 Ask me about **react**
 

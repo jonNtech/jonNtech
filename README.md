@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Juan Taco Shop landing page](https://github.com/jonNtech/JuanTacos)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **iamjonntech@gmail.com**
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jon Pena</h1>
 <h3 align="center">This is JonNTech</h3>
 
-- 🔭 I’m currently working on [fun freedom Calculator](https://github.com/jonNtech/CalculatorApp)
+- 🔭 I’m currently working on [Puedo Travel Reservations](https://github.com/jonNtech/CalculatorApp)
 
 - 🌱 I’m currently learning **Node.js Express Mongo Db**
 
-- 👯 I’m looking to collaborate on [Juan Taco Shop landing page](https://github.com/jonNtech/JuanTacos)
+- 👯 I’m looking to collaborate on [Puedo Travel Reservations](https://github.com/jonNtech/JuanTacos)
 
 - 💬 Ask me about **React**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [jonntech.com](jonntech.com)
 
-- ⚡ Fun fact **I have worked on teams as large as 300 people and play well with others**
+- ⚡ Fun fact **I started my career with 12 years of hotel industry management. I led teams as large as 300 people. I became the Guest Experience Manager for hotels in Las Vegas. I had to learn  MySQL, python, and other technologies to filter all the guest feedback into actionable items We could use to help our services. I got my current job because of my experience with WordPress and databases. This also led me to web development and launched my freelancing career**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

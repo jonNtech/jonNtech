@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jon Pena</h1>
 <h3 align="center">This is JonNTech</h3>
 
-- 🔭 I’m currently working on [Puedo Travel Reservations](https://github.com/jonNtech/Puedo-travel)
+- 🔭 I’m currently working on [Puedo Travel Reservations](puedo-travel-production.up.railway.app↗)
 
 - 🌱 I’m currently learning **Typescript**
 

@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [jonntech.com](jonntech.com)
 
-- ⚡ Fun fact **I started my career with 12 years of hotel industry management. I led teams as large as 300 people. I became the Guest Experience Manager for hotels in Las Vegas. I had to learn  MySQL, python, and other technologies to filter all the guest feedback into actionable items We could use to help our services. I got my current job because of my experience with WordPress and databases. This also led me to web development and launched my freelancing career**
+- ⚡ Fun fact **I started my career with 12 years of hotel industry management. I led teams as large as 300 people. I became the Guest Experience Manager for hotels in Las Vegas. I had to learn  MySQL, python, and other technologies to filter all the guest feedback into actionable items We could use to help our services. I got my current job because of my experience with WordPress and databases. This also led me to full-stack javascript web development and launched my freelancing career**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

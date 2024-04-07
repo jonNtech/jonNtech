@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Puedo Travel Reservations](puedo-travel-production.up.railway.app↗)
 
-- 🌱 I’m currently learning **Angular/Typescript**
+- 🌱 I’m currently learning **cloud services**
 
 - 👯 I’m looking to collaborate on [Puedo Travel Reservations](https://github.com/jonNtech/Puedo-travel)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **.NET/Angular**
 
 - 📫 How to reach me **iamjonntech@gmail.com**
 
